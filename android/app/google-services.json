@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1061758896903",
+    "project_id": "grocee-food-recipe",
+    "storage_bucket": "grocee-food-recipe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061758896903:android:32bfef37461847856b13a2",
+        "android_client_info": {
+          "package_name": "com.goggxi.grocee_food_recipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061758896903-beh4thuoscis1ukl3ii0lk42nt34fl74.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goggxi.grocee_food_recipe",
+            "certificate_hash": "4f437d7d5a34822219c755493f9de00812f0f2b6"
+          }
+        },
+        {
+          "client_id": "1061758896903-2hbkgv3cbado6gruqho97or1kjouokp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtaOAUuhUVnOE3-CKaqGMbE8g1qkQSevE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061758896903-2hbkgv3cbado6gruqho97or1kjouokp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
